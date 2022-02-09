@@ -18,10 +18,15 @@ PORT=
 
 # ESTABLECER LA BASE DE DATOS
 MONGODB_URI=
+
+# ESTABLECER LA PALABRA SECRETA
+SECRET=
 ```
 
 Puedes revisar como ejemplo el archivo `.env.example` con las propiedades.
 
+## Consideraciones 
+Verifica agregar las config vars a tu apliclacion en la nube
 
 ## Créditos
 
